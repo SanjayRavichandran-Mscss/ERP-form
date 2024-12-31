@@ -4,7 +4,7 @@ import './Form.css';
 function Form() {
   return (
     <form
-      action="http://erp.kggeniuslabs.com:8000/api/method/custom_app.api.create_lead"
+      action="http://192.168.253.187:8000/api/method/custom_app.api.create_lead"
       method="POST"
       className="form-container"
     >
